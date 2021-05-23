@@ -1,0 +1,46 @@
+h1 {
+    color: #a25678;
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+  }
+  h1,
+  .currentcity,
+  .currenttemp,
+  .zipsearch,
+  .upcomingforcast,
+  .currentlocation {
+    color: #a25678;
+    padding-top: 5px;
+    text-align: center;
+  }
+  .currentlocation {
+    padding-top: 5px;
+  }
+  
+  .here-button {
+    text-align: center;
+    color: #a25678;
+    font-size: 35px;
+  }
+  .currenttemp {
+    font-family: "Roboto", sans-serif;
+    font-size: 32px;
+    border-style: dashed;
+    border: #a25678;
+    border-width: 5px;
+  }
+  .days {
+    font-size: medium;
+    font-weight: 300;
+  }
+  .upcomingforcast {
+    padding-top: 20px;
+  }
+  .tempchangebutton {
+    text-align: center;
+    padding-bottom: 15px;
+  }
+  .btn {
+    background-color: #a25678;
+  }
+  
